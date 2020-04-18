@@ -1,4 +1,4 @@
-# DNN-for-classification
+# DNN-classification-using-numpy
 implement a DNN with numpy
 
 ## Setup
