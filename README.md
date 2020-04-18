@@ -1,5 +1,5 @@
 # DNN-classification-using-numpy
-implement a DNN with numpy
+implement a DNN image classification model with numpy.
 
 ## Setup
 1. 創建一個新環境
